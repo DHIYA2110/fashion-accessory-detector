@@ -16,6 +16,11 @@ This project uses YOLOv8 to detect fashion accessories such as **sunglasses**, *
 - Jupyter Notebook
 
 ## 📂 Project Structure
+## 📂 Dataset Access
+The dataset is stored in Google Drive for easy access:
+[🔗 Download Dataset](your_google_drive_shareable_link_here)
+
+Please download the dataset and place it inside:
 
 
 
